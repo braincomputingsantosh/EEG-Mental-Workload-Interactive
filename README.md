@@ -144,15 +144,15 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 If you use this code in your research, please cite:
 ```
 @misc{mental_workload_analysis,
-  author = {[Your Name]},
+  author = {Santosh Srinivasaiah, Prathiksha, Prathwik, Shafat, Ujwal},
   title = {Mental Workload Analysis using EEG Data},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/[username]/[repository]}
+  url = {https://github.com/braincomputingsantosh/EEG-Mental-Workload-Interactive}
 }
 ```
 
 ## Contact
 [Your Name] - [Your Email]
 
-Project Link: [https://github.com/[username]/[repository]](https://github.com/[username]/[repository])
+Project Link: [https://github.com/braincomputingsantosh/EEG-Mental-Workload-Interactive](https://github.com/braincomputingsantosh/EEG-Mental-Workload-Interactive)
