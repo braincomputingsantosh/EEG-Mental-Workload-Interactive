@@ -153,6 +153,5 @@ If you use this code in your research, please cite:
 ```
 
 ## Contact
-[Your Name] - [Your Email]
 
 Project Link: [https://github.com/braincomputingsantosh/EEG-Mental-Workload-Interactive](https://github.com/braincomputingsantosh/EEG-Mental-Workload-Interactive)
