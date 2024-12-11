@@ -74,11 +74,6 @@ project_root/
 │   ├── Lin_ASM_LhT1.mat
 │   ├── ...
 │   └── visualizations/    # Generated visualizations
-│
-├── scripts/
-│   ├── analysis.py        # Main analysis script
-│   └── dashboard.py       # Dashboard creation script
-│
 └── README.md
 ```
 
